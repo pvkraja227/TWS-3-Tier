@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=wgmYbSN6_Is
 
-# #TWSThreeTierAppChallenge
+# #TWS-3-Tier
 
 ## Overview
 This repository hosts the `#TWS-3-Tier` for the TWS community. 
